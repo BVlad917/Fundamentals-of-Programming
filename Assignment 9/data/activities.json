@@ -1,0 +1,102 @@
+[
+  {
+    "Activity": {
+      "id": 2,
+      "start": "20/06/2023 09:00",
+      "end": "20/06/2023 20:30",
+      "description": "Vacation",
+      "persons": [
+        2
+      ]
+    }
+  },
+  {
+    "Activity": {
+      "id": 4,
+      "start": "11/05/2021 18:30",
+      "end": "21/05/2021 22:00",
+      "description": "Funny meeting",
+      "persons": []
+    }
+  },
+  {
+    "Activity": {
+      "id": 5,
+      "start": "10/05/2021 10:00",
+      "end": "18/05/2021 12:00",
+      "description": "fun overload",
+      "persons": []
+    }
+  },
+  {
+    "Activity": {
+      "id": 6,
+      "start": "11/05/2021 14:45",
+      "end": "21/05/2021 17:00",
+      "description": "football",
+      "persons": []
+    }
+  },
+  {
+    "Activity": {
+      "id": 7,
+      "start": "13/04/2021 15:00",
+      "end": "13/04/2021 20:00",
+      "description": "swimming and football",
+      "persons": [
+        2
+      ]
+    }
+  },
+  {
+    "Activity": {
+      "id": 9,
+      "start": "10/05/2021 15:00",
+      "end": "17/05/2021 17:00",
+      "description": "Reading",
+      "persons": []
+    }
+  },
+  {
+    "Activity": {
+      "id": 1,
+      "start": "17/05/2021 10:30",
+      "end": "17/05/2021 17:00",
+      "description": "Hiking",
+      "persons": [
+        2
+      ]
+    }
+  },
+  {
+    "Activity": {
+      "id": 3,
+      "start": "17/05/2021 17:30",
+      "end": "17/05/2021 21:00",
+      "description": "Fun",
+      "persons": [
+        2
+      ]
+    }
+  },
+  {
+    "Activity": {
+      "id": 8,
+      "start": "10/07/2021 14:30",
+      "end": "10/07/2021 16:00",
+      "description": "swim outside",
+      "persons": []
+    }
+  },
+  {
+    "Activity": {
+      "id": 15,
+      "start": "19/09/2021 17:00",
+      "end": "19/09/2021 20:30",
+      "description": "persistent description",
+      "persons": [
+        2
+      ]
+    }
+  }
+]
